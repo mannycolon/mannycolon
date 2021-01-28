@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/mannycolon"><img src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mannycolon/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    	<a href="https://twitter.com/_mannycolon"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/mannycolon.tech/"><img src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/_mannycolon"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
