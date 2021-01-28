@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I'm Manny:technologist:
 
 <!--
 **mannycolon/mannycolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on open source and personal projects using React, Nextjs, & GraphQL.
+- 🌱 I’m currently expanding my learning of Tailwindcss & AWS Amplify.
+- 👯 I’m looking to collaborate on open source projects.
+- :baseball: :basketball: :football: :bowling: :soccer: I love sports, so feel free to talk ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...
+- :robot: I'm a Iot enthusiast.
+- :weight_lifting: Enjoy weight lifting.
+
+<p align="center">
+	<a href="https://github.com/mannycolon"><img src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/mannycolon/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/mannycolon.tech/"><img src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/_mannycolon"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
