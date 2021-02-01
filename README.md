@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on open source and personal projects using React, Nextjs, & GraphQL.
 - 🌱 I’m currently expanding my learning of Tailwindcss & AWS Amplify.
 - 👯 I’m looking to collaborate on open source projects.
-- :baseball: :basketball: :football: :bowling: :soccer:  I love sports, so feel free ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...
+- :baseball: I love sports, so feel free ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...:basketball: :football: :bowling: :soccer: 
 - :robot: I'm an Iot enthusiast.
 - :weight_lifting: Enjoy weight lifting.
 - 💻 Tech stack: Javascript | Node | React | Redux | Express | MongoDB | Nextjs | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss
