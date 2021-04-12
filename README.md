@@ -30,4 +30,6 @@ Javascript | Node | React | Redux | Express | MongoDB | Nextjs | GraphQL | Prism
 	<a href="https://www.linkedin.com/in/mannycolon/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
     	<a href="https://twitter.com/_mannycolon"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/mannycolon.tech/"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://mannycolon.tech/"><img src="https://img.icons8.com/cotton/50/000000/website.png" alt="My-Website"/></a>
 </p>
+
