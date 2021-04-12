@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - :baseball: I love sports, so feel free ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...:basketball: :football: :bowling: :soccer: 
 - :robot: I'm an Iot enthusiast.
 - :weight_lifting: Enjoy weight lifting.
-- 💻 Tech stacks: Javascript | Node | React | Redux | Express | MongoDB | Nextjs | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss | Java | Nextjs | 
+- 💻 Tech stacks: 
+Javascript | Node | React | Redux | Express | MongoDB | Nextjs | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss | Java | Nextjs | 
 
 
 <p align="center">
