@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on open source and personal projects using React, Nextjs, & GraphQL.
-- 🌱 I’m currently expanding my learning of Tailwindcss & AWS Amplify.
+- 🔭 I’m currently working on open source and personal projects using React, Tailwind CSS, Nextjs, & GraphQL.
+- 🌱 I’m currently expanding my learning of AWS Amplify.
 - 👯 I’m looking to collaborate on open source projects.
-- :baseball: I love sports, so feel free ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...:basketball: :football: :bowling: :soccer: 
+- :baseball: I'm passionate about sports, so feel free ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...:basketball: :football: :bowling: :soccer: 
 - :robot: I'm an Iot enthusiast.
 - :weight_lifting: Enjoy weight lifting.
 - 💻 Tech stacks: 
