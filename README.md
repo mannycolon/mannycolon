@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on open source and personal projects using React, Tailwind CSS, Nextjs, & GraphQL.
-- 🌱 I’m currently learning XR Development using Unity.
+- 🌱 I’m currently learning XR Development with [Unity](https://unity.com/).
 - 👯 I’m looking to collaborate on open source projects.
 - :baseball: I'm passionate about sports, so feel free ask me about Red Sox vs Yankees, LeBron James or Messi vs Ronaldo...:basketball: :football: :bowling: :soccer: 
 - :robot: I'm an Iot enthusiast.
