@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :robot: I'm an Iot enthusiast.
 - :weight_lifting: Enjoy weight lifting.
 - 💻 Tech stacks: 
-Javascript | Node | React | Redux | Express | MongoDB | Nextjs | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss | Java | C# | Supabase |  
+Javascript | Node | React | Redux | Express | MongoDB | Nextjs | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss | Java | C# | Supabase | Gatsbyjs |
 
 <p align="center">Check me out on:</p>
 <p align="center">
