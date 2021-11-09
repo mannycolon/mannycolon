@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on open source and personal projects using Node.js, React.js, Next.js, Tailwind CSS & GraphQL.
-- 🌱 I’m currently learning XR Development with [Unity](https://unity.com/).
+- 🌱 I’m currently learning [XR Development](https://docs.unity3d.com/Manual/XR.html) with [Unity](https://unity.com/).
 - 👯 I’m looking to collaborate on open source projects.
 - :baseball: I'm passionate about sports, feel free to share your most enjoyable sports moments. :basketball: :football: :bowling: :soccer: 
-- :robot: I'm an Iot enthusiast.
+- :robot: I'm an [Iot](https://en.wikipedia.org/wiki/Internet_of_things) & [XR](https://docs.unity3d.com/Manual/XR.html) enthusiast.
 - :weight_lifting: Enjoy weight lifting.
 - 💻 Tech stacks: 
-Javascript | Node | React | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss | Java | C# | Supabase | Gatsby.js |
+Javascript | Node | React | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | React-Native | Electron | AWS Amplify | Tailwindcss | Java | C# | Supabase | Gatsby.js | ...
 
 <p align="center">Check me out on:</p>
 <p align="center">
