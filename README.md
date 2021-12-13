@@ -37,6 +37,8 @@ Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | Graph
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannycolon&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mannycolon used languages stats" />
 </p>
 
+<!--
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannycolon&show_icons=true&theme=tokyonight" alt="mannycolon GitHub stats" />
 </p>
+-->
