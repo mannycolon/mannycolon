@@ -33,3 +33,4 @@ Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | Graph
 	<a href="https://mannycolon.tech/"><img src="https://img.icons8.com/cotton/50/000000/website.png" alt="My-Website"/></a>
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannycolon&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mannycolon" /></p>
