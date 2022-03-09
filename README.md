@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - :robot: I'm an [Iot](https://en.wikipedia.org/wiki/Internet_of_things) & [XR](https://docs.unity3d.com/Manual/XR.html) enthusiast.
 - :weight_lifting: Enjoy weight lifting.
 - 💻 Tech stacks: 
-Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | Gatsby.js | React-Native | Electron | AWS Amplify | Tailwindcss | Supabase | C# | Java | ...
+Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | Gatsby.js | React-Native | Electron | AWS Amplify | Tailwindcss | Supabase | Jest | Cypress | C# | Java | ...
 
 <p align="center">Check me out on:</p>
 <p align="center">
