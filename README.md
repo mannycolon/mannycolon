@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects.
 - :baseball: I'm passionate about sports, feel free to share your most enjoyable sports moments. :basketball: :football: :bowling: :soccer: 
 - :robot: I'm an [Iot](https://en.wikipedia.org/wiki/Internet_of_things) & [XR](https://docs.unity3d.com/Manual/XR.html) enthusiast.
-- :weight_lifting: Enjoy weight lifting.
+- :weight_lifting: ~Enjoy weight lifting.~ The pandemic hit and haven't been able to get the discipline to return back to the gym as consistenly as before. 
 - 💻 Tech stacks: 
 Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | Gatsby.js | React-Native | Electron | AWS Amplify | Tailwindcss | Supabase | Jest | Cypress | C# | Java | ...
 
