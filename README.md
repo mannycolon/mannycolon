@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on open source and personal projects using Node.js, React.js, Next.js, Tailwind CSS & GraphQL.
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/). 
 - 🌱 I enjoy learning about [XR Development](https://docs.unity3d.com/Manual/XR.html) with [Unity](https://unity.com/) on my spare time.
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate in open source projects.
 - :baseball: I'm passionate about sports, feel free to share your most enjoyable sports moments. :basketball: :football: :bowling: :soccer: 
 - :robot: I'm an [Iot](https://en.wikipedia.org/wiki/Internet_of_things) & [XR](https://docs.unity3d.com/Manual/XR.html) enthusiast.
 - :weight_lifting: ~Enjoy weight lifting.~ The pandemic hit and I haven't had the discipline to return back to the gym as consistently as before.
