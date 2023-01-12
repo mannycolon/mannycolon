@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on open source and personal projects using Node.js, React.js, Next.js, Tailwind CSS & GraphQL.
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/). 
+- 🔭 I’m currently working on open source and personal projects using TypeScript, Node.js, React.js, Next.js, Tailwind CSS & GraphQL.
+- 🌱 I’m currently mastering [TypeScript](https://www.typescriptlang.org/) by reading [Mastering TypeScript - Fourth Edition by Nathan Rozentals](https://www.oreilly.com/library/view/mastering-typescript/9781800564732/). 
 - 🌱 I enjoy learning about [XR Development](https://docs.unity3d.com/Manual/XR.html) with [Unity](https://unity.com/) on my spare time.
 - 👯 I’m looking to collaborate in open source projects.
 - :baseball: I'm passionate about sports, feel free to share your most enjoyable sports moments. :basketball: :football: :bowling: :soccer: 
 - :robot: I'm an [Iot](https://en.wikipedia.org/wiki/Internet_of_things) & [XR](https://docs.unity3d.com/Manual/XR.html) enthusiast.<!-- - :weight_lifting: Enjoy weight lifting.-->
 - 💻 Tech stacks: 
-Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | Gatsby.js | React-Native | Electron | AWS Amplify | Tailwindcss | Supabase | Jest | Cypress | C# | Java | ...
+TypeScript | Javascript | Node.js | React.js | Redux | Express.js | MongoDB | Next.js | GraphQL | Prisma | Apollo | Gatsby.js | React-Native | Electron | AWS Amplify | Tailwind CSS | Supabase | Jest | Cypress | C# | Java | ...
 
 <p align="center">Check me out on:</p>
 <p align="center">
